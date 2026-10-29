@@ -1,5 +1,7 @@
 # php7.4-extension-builder
 
+[![build](https://github.com/tanshiqi/php7.4-extension-builder/actions/workflows/build.yml/badge.svg)](https://github.com/tanshiqi/php7.4-extension-builder/actions/workflows/build.yml)
+
 Builds extra shared extensions for **statically linked PHP 7.4.33 (NTS / arm64 / API 20190902)**, targeting the `php74` binary shipped with Laravel Herd.
 
 Artifacts:
